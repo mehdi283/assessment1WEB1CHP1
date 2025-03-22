@@ -40,3 +40,12 @@ ol,ul {
     font-size: 1.0em;
     color: rgb(255, 255, 255);
 }
+
+footer{
+
+text-align: center;
+color: aliceblue;
+border-bottom: 2px solid;
+margin-bottom: 40px;
+
+}
